@@ -13,13 +13,6 @@ With DeLookup, users can perform comprehensive searches based on a wide range of
 - **CSV Export Functionality**: Users can export their search results to a CSV file, enabling further analysis or record-keeping.
 - **Environment Configuration**: Sensitive credentials, such as API keys and emails, can be securely managed through a `.env` file, reducing the risk of accidental exposure in code repositories.
 
-## Features
-
-- Search for records using multiple parameters.
-- Perform reverse searches on found records.
-- Display results in a structured format.
-- Optional export of search results to CSV files.
-- Environment variable configuration for secure API usage.
 
 ## Requirements
 
